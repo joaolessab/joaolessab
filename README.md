@@ -4,15 +4,15 @@
 <br/><br/>
 <h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
 
-<h4 align="center">Programming Languages: </h4>
-<p align="center">
+<h4>Programming Languages: </h4>
+<p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
-<h4 align="center">Skills and Tools: </h4>
-<p align="center">
+<h4>Skills and Tools: </h4>
+<p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
@@ -39,8 +39,8 @@
  
 </p>
 
-<h4 align="center">Desktop Environment: </h4>
-<p align="center">
+<h4>Desktop Environment: </h4>
+<p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
@@ -50,8 +50,8 @@
 </p>
 
 <br/><br/>
-<h2 align="center">Did you like my job? Support me</h2>
-<p align="center">
+<h2>Did you like my job? Support me</h2>
+<p align="left">
   <a href="https://www.buymeacoffee.com/teste" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
