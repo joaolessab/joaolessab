@@ -2,7 +2,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/jvlessahome.png">
 
-<h2 align="center">I'm glad you found out about my "Digital Garden"</h2>
+<h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
 
 <h4>Programming Languages: </h4>
 <p align="left">
@@ -51,10 +51,7 @@
 
 
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
+<h2 align="center">Did you like my job? Support me</h2>
 <p>
   <a href="https://www.buymeacoffee.com/teste" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
