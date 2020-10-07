@@ -1,5 +1,6 @@
-## Hi there 👋!
-### Welcome to my Digital Garden
+# What's uuuuuuup? 👋!
+## I'm glad you found out about my "Digital Garden"
+### Feel free to explore here
 
 <!--
 **jvlessa/jvlessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
