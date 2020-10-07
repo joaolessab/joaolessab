@@ -1,4 +1,4 @@
-# What's uuuuuuup? 👋!
+<h1 align="center">What's uuuuuuuuuup? 👋</h1>
 ## I'm glad you found out about my "Digital Garden"
 
 <!--
