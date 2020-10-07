@@ -50,8 +50,8 @@
 </p>
 
 <br/><br/>
-<h2>Did you like my job? Support me</h2>
-<p align="left">
+<h2 align="center">Did you like my job? Support me</h2>
+<p align="center">
   <a href="https://www.buymeacoffee.com/teste" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
