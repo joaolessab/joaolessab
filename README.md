@@ -1,4 +1,4 @@
-<h1 align="center">What's uuuuuuuuuup? 👋</h1>
+<h1 align="center">Hello, buddy! 👋</h1>
 
 <img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/jvlessahome.png">
 <br/><br/>
