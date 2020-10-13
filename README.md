@@ -3,10 +3,6 @@
 <img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/jvlessahome.png">
 <br/><br/>
 
-<h2 align="center">I'm currently organizing my Portfolio to share here for you:</h2>
-<img align="center" src="https://codemyui.com/wp-content/uploads/2018/07/Lightsaber-Progress-Bar.gif" height="300">
-<br/><br/>
-
 <h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
 
 <h4>Programming Languages: </h4>
