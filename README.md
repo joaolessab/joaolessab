@@ -11,6 +11,7 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
 	<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" alt=c width="60" height="60"/>
+	<img style="margin: auto;" src="https://logospng.org/download/java/logo-java-512.png" alt=c width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
