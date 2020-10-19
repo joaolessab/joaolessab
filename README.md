@@ -10,15 +10,14 @@
 <img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/body.png">
 </p>
 
-<h4>Programming Languages: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt=python width="60" height="60"/> 	
+<ul align="center">
+	<a href="https://www.google.com.br"><img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" alt=python width="60" height="60"/></a>
   	<img style="margin: auto;" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/256/full/nodejslogo.png" alt=cplusplus width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
 	<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" alt=c width="60" height="60"/>
 	<img style="margin: auto;" src="https://logospng.org/download/java/logo-java-512.png" alt=c width="60" height="60"/>
-</p>
+</ul>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
