@@ -6,7 +6,9 @@
 </p>
 <br/><br/>
 
-<h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
+<p align="center">
+<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/body.png">
+</p>
 
 <h4>Programming Languages: </h4>
 <p align="left">
