@@ -1,6 +1,6 @@
 <h1 align="center">Hello, buddy! 👋</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/jvlessahome.png">
+<img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/joao--at-work.gif">
 <br/><br/>
 
 <h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
@@ -54,7 +54,7 @@
 </p>
 
 <br/><br/>
-<h2 align="center">Did you like my job? Support me</h2>
+<h2 align="center">Did you like my job? Talk to me</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/teste" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
