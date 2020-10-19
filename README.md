@@ -19,7 +19,9 @@
 	<a href="#"><img style="margin: auto;" src="https://logospng.org/download/java/logo-java-512.png" alt=c width="60" height="60"/></a>
 </ul>
 
-<h4>Skills and Tools: </h4>
+<p align="center">
+<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/frameworks.png">
+</p>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
@@ -47,7 +49,9 @@
  
 </p>
 
-<h4>Desktop Environment: </h4>
+<p align="center">
+<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/devops.png">
+</p>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
@@ -57,13 +61,6 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<br/><br/>
-<h2 align="center">Did you like my job? Talk to me</h2>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/teste" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>
+<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/databases.png">
 </p>
-</div>
-
-
