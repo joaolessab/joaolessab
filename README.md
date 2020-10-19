@@ -1,5 +1,6 @@
-<h1 align="center">Hello, buddy! 👋</h1>
-
+<p align="center">
+<img width="650" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/header.png">
+</p>
 <p align="center">
 <img width="550" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/joao--at-work.gif">
 </p>
