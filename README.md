@@ -1,6 +1,8 @@
 <h1 align="center">Hello, buddy! 👋</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/joao--at-work.gif">
+<p align="center">
+<img width="550" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/joao--at-work.gif">
+</p>
 <br/><br/>
 
 <h2 align="center">I'm glad you found out about my "Digital Garden". Here's what I know:</h2>
