@@ -53,12 +53,14 @@
 <img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/devops.png">
 </p>
 <ul align="center">
+	<img style="margin: auto;" src="https://miro.medium.com/max/2476/0*Rzn3XtHJOEemjLLV.png" alt=git width="300" height="50"/>
+	<img style="margin: auto;" src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2019/12/13124041/amazon-web-services-1.png" alt=git width="110" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="70"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
+  	<img style="margin: auto;" src="https://miro.medium.com/max/3840/1*GT14TQZJDmp6NG31mvxeAw.png" alt=slack width="60" height="70"/>
+	<br/>
+  	<img style="margin: auto;" src="https://coralogix.com/wp-content/uploads/2019/03/elastic-search-768x353.png" alt=vs width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
   	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
