@@ -30,16 +30,14 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/angular1x.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/angular2.png" alt=react width="60" height="60"/> 
+	<img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/220px-Vue.js_Logo_2.svg.png" alt=react width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/d3.png" alt=d3js width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/gulp.png" alt=gulp width="60" height="60"/>	
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/yarn.png" alt=yarn width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
@@ -68,8 +66,8 @@
 	<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/databases.png">
 </p>
 <ul align="center">
-  <img style="margin: auto;" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" alt=slack width="80" height="90"/>
-  <img style="margin: auto;" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt=vs width="80" height="80"/>
-  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq5RXCp64OuU9ZUM-8jvVT3qHE4BTV5FppiQ&usqp=CAU" alt=atom width="140" height="80"/>
-  <img style="margin: auto;" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt=linux width="100" height="100"/>
+  	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/>
+  	<img style="margin: auto;" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt=linux width="60" height="60"/>
 </ul>
