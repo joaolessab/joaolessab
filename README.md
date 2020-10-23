@@ -18,13 +18,15 @@
  	<a href="#"><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/></a>
 	<a href="#"><img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" alt=c width="55" height="60"/></a>
 	<a href="#"><img style="margin: auto;" src="https://logospng.org/download/java/logo-java-512.png" alt=c width="60" height="60"/></a>
+	<a href="#"><img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt=c width="120" height="60"/></a>
+	<a href="#"><img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/></a>
 </ul>
 
 <p align="center">
 <img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/frameworks.png">
 </p>
 <ul align="center">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/>
+	
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/d3.png" alt=d3js width="60" height="60"/>
