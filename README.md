@@ -53,7 +53,7 @@
 <img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/devops.png">
 </p>
 <ul align="center">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="70"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
@@ -62,5 +62,11 @@
 </ul>
 
 <p align="center">
-<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/databases.png">
+	<img width="750" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/databases.png">
 </p>
+<ul align="center">
+  <img style="margin: auto;" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" alt=slack width="80" height="90"/>
+  <img style="margin: auto;" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt=vs width="70" height="80"/>
+  <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq5RXCp64OuU9ZUM-8jvVT3qHE4BTV5FppiQ&usqp=CAU" alt=atom width="120" height="80"/>
+  <img style="margin: auto;" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt=linux width="100" height="100"/>
+</ul>
