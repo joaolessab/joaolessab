@@ -74,4 +74,6 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/>
   	<img style="margin: auto;" src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" alt=linux width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/microsoftsql.jpg" alt=linux width="80" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/jvlessa/jvlessa/main/media/firebase.jpg" alt=linux width="170" height="60"/>
 </ul>
